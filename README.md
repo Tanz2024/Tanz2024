@@ -23,11 +23,12 @@
 
 - **Languages**: Python, TypeScript, JavaScript, SQL, C++
 - **Frontend**: React, React Native, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, FastAPI, NestJS
-- **Databases**: PostgreSQL, Firebase, MongoDB
-- **AI/ML**: OpenAI, Whisper, LangChain, Regression
-- **DevOps**: Render, Vercel, Firebase Hosting, Nginx, cPanel
-- **Cloud & IoT**: ThingsBoard, WebSockets, VM Deployment
+- **Backend**: Node.js, Express.js, FastAPI, NestJS, Django, Laravel, ASP.NET
+- **Databases**: PostgreSQL, Firebase, MongoDB, SQL, Prisma ORM
+- **AI/ML**: OpenAI, Whisper, LangChain, Scikit-learn (Regression, Classification)
+- **DevOps**: Render, Vercel, Firebase Hosting, Nginx, cPanel, AWS, Azure
+- **Cloud & IoT**: ThingsBoard, WebSockets, VM Deployment, MQTT
+
 
 ---
 
