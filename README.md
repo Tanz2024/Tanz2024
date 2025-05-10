@@ -1,6 +1,4 @@
-# Re-run the code after environment reset to regenerate the file
 
-readme_content = """
 <h1 align="center">Hi, I'm Tanzim 👋</h1>
 
 <p align="center">
@@ -11,32 +9,45 @@ readme_content = """
 
 ### 🧠 About Me
 
-- 🔭 Building **real-world full-stack apps** for web & mobile platforms
-- 👨‍💻 Roles: `Full-stack Developer` • `AI Engineer` • `App Developer` • `Data Analyst`
-- 🧑‍💻 Tech stack: `React` • `Next.js` • `React Native` • `FastAPI` • `PostgreSQL` • `Node.js` • `Firebase`
-- ☁️ Experience with cloud infra: `Nginx`, `VM`, `ThingsBoard`, `CPanel`, `WebSockets`
-- 🤖 AI integrations: `ChatGPT`, `LangChain`, `Whisper`, `OCR`, `ML Models`
-- 🌍 Based in Kuala Lumpur, Malaysia
+- 🔭 Building **production-ready AI, inventory, and analytics systems** for real-world use cases  
+- 👨‍💻 Roles: `Full-stack Developer` • `App Developer` • `AI Engineer` • `Data Analyst`  
+- 🧑‍💻 Tech stack: `React` • `React Native` • `FastAPI` • `Node.js` • `PostgreSQL` • `Firebase` • `Nginx` • `ThingsBoard`  
+- 🤖 AI/ML: ChatGPT (LLM), Whisper (TTS), OCR, LangChain, Regression Models  
+- ☁️ Cloud & DevOps: VM-based deployment, WebSockets, Nginx, cPanel  
+- 🌍 Based in Kuala Lumpur, Malaysia  
+- 🚀 Passionate about clean design, solving real problems, and building smart systems  
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tools & Skills
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
+- **Languages**: Python, TypeScript, JavaScript, SQL, C++
+- **Frontend**: React, React Native, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express.js, FastAPI, NestJS
+- **Databases**: PostgreSQL, Firebase, MongoDB
+- **AI/ML**: OpenAI, Whisper, LangChain, Regression
+- **DevOps**: Render, Vercel, Firebase Hosting, Nginx, cPanel
+- **Cloud & IoT**: ThingsBoard, WebSockets, VM Deployment
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanz2024&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+### 🗓️ Contribution Graph Calendar
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanz2024&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanz2024&show_icons=true&theme=tokyonight" />
@@ -45,18 +56,41 @@ readme_content = """
 
 ---
 
-### 🚀 Projects Worth Checking Out
+### 🔥 Highlight Projects
 
 - 📦 [Inventory Management System](https://github.com/Tanz2024/inventory-management.git)  
-  Built with `Node.js`, `Express.js`, `React`, `PostgreSQL`, `Firebase`, and `Nginx`.  
-  Integrates `ChatGPT` for OCR & LLM. Deployed with modern infra tools.
+  Built with `Node.js`, `Express.js`, `React`, `Firebase`, `PostgreSQL`, and `Nginx`.  
+  Uses `ChatGPT` for OCR & LLM. A complete warehouse/inventory solution.
 
-- 🤖 [Voice AI Chatbot](https://github.com/Tanz2024/Chatbot)  
-  React Native frontend + FastAPI backend. Uses `PostgreSQL`, `ThingsBoard` for cloud data, `ChatGPT` for text responses, and `Whisper` for TTS.
+- 🤖 [Voice Chatbot App](https://github.com/Tanz2024/Chatbot)  
+  Built using `React Native`, `FastAPI`, `PostgreSQL`, `ThingsBoard`, `Whisper`, and `ChatGPT`.  
+  TTS and intelligent NLP features integrated for real-time voice chatbot use cases.
 
-- 📈 [Intelligent Energy System (IES)](https://github.com/Tanz2024/IES)  
-  ML-powered analytics using regression & other models. Backend: `Node.js`. Frontend: `React`.  
-  Uses `WebSockets` + `ThingsBoard`, deployed on VM & CPanel.
+- 📈 [IES – Intelligent Energy System](https://github.com/Tanz2024/IES)  
+  Uses ML models like regression, deployed on VM & cPanel.  
+  Includes `React`, `Node.js`, `PostgreSQL`, `WebSockets`, and `ThingsBoard`.
+
+---
+
+### 🎓 Certifications
+
+- 📜 [Developing Back-End Apps with Node.js and Express – IBM (Coursera)](https://www.coursera.org/account/accomplishments/verify/K4YVDNQ8WFC6)
+- 📜 [Python for Analytics – CADS](https://credsverse.com/credentials/87cfe1ca-bb22-47d3-8271-57047c9a5705)
+- 📜 [Python for Data Science, AI & Development – IBM (Coursera)](https://www.coursera.org/account/accomplishments/verify/37Z6K8NC7S2S)
+
+---
+
+### 💬 Quote I Live By
+
+>  "Powered by caffeine, controlled by logic, and debugged by vibes." – Tanzim
+
+---
+
+### 📊 Dynamic GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Tanz2024?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKuala_Lumpur" />
+</p>
 
 ---
 
@@ -70,11 +104,3 @@ readme_content = """
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tanz2024.Tanz2024)
-"""
-
-# Save to file
-file_path = "/mnt/data/README_Tanz2024.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-file_path
