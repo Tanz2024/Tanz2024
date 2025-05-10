@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Tanzim 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;App+Developer;AI+Engineer;Data+Analyst;Voice+Chatbot+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;App+Developer;AI+Engineer;Data+Analyst;" alt="Typing SVG" />
 </p>
 
 ---
