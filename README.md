@@ -14,7 +14,7 @@
 - 🧑‍💻 Tech stack: `React` • `React Native` • `FastAPI` • `Node.js` • `PostgreSQL` • `Firebase` • `Nginx` • `ThingsBoard`  
 - 🤖 AI/ML: ChatGPT (LLM), Whisper (TTS), OCR, LangChain, Regression Models  
 - ☁️ Cloud & DevOps: VM-based deployment, WebSockets, Nginx, cPanel  
-- 🌍 Based in Kuala Lumpur, Malaysia  
+- 🌏 Based in Kuala Lumpur, Malaysia  
 - 🚀 Passionate about clean design, solving real problems, and building smart systems  
 
 ---
@@ -31,14 +31,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanz2024&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
 ### 🗓️ Contribution Graph Calendar
 
 <p align="center">
@@ -47,12 +39,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanz2024&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanz2024&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanz2024&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanz2024&layout=compact&theme=tokyonight)
 
 ---
 
@@ -80,17 +70,9 @@
 
 ---
 
-### 💬 Quote I Live By
+### 💬 Motto
 
->  "Powered by caffeine, controlled by logic, and debugged by vibes." – Tanzim
-
----
-
-### 📊 Dynamic GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Tanz2024?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKuala_Lumpur" />
-</p>
+> **"I drink coffee, write code, and casually automate chaos." – Tanzim**
 
 ---
 
