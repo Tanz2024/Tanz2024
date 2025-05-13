@@ -32,13 +32,6 @@
 
 ---
 
-### 🗓️ Contribution Graph Calendar
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanz2024&theme=tokyonight" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
