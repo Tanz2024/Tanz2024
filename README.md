@@ -80,6 +80,7 @@ Energy analytics and prediction platform with real-time dashboards.
 - CADS — Python for Analytics  
 
 ---
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E51T1H3E)
 
 ## Contact
 
